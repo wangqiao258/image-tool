@@ -1,4 +1,6 @@
 __pycache__/
+.freebuff/
+demo/
 *.pyc
 *.pyo
 *.pyd
